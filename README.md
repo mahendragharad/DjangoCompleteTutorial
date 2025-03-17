@@ -7,7 +7,7 @@
 ```
 ### Commmad to create the dajango project 
 ```
-django admin startproject projectname
+django-admin startproject projectname
 ```
 ### manage.py 
 ```
